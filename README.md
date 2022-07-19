@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohant79&label=Profile%20views&color=0e75b6&style=flat" alt="rohant79" /> </p>
 
-- <h3>Portfolio:-<a href="https://rohan-tekade-portfolio.netlify.app/" target="_blank">https://rohantekade-portfolio.netlify.app/</a></h3>
+- <h3>Portfolio:-<a href="https://rohan-tekade-portfolio.netlify.app/" target="_blank">https://rohan-tekade-portfolio.netlify.app/</a></h3>
 
 - 🔭 I’m currently working on **Frontend Master's Clone**
 
